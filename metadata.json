@@ -1,0 +1,6 @@
+{
+  "name": "로컬리터러시 & 히스토리보이스",
+  "description": "우리 동네 사회 문제 지도·제보 게시판·실시간 속보(로컬리터러시)와 국사편찬위원회 한국사 사료 기반 역사 토론·팩트체크 광장(히스토리 보이스)의 통합 시민 공론장",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
